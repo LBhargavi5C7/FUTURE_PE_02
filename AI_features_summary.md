@@ -1,4 +1,4 @@
-##**AI Features Summary**
+**AI Features Summary**
 # 🌿 **Earthy Nature Connect – Website Documentation**
 
 This documentation outlines the structure and features of **Earthy Nature Connect**, a landing page created for promoting eco-friendly products. Built entirely using **no-code tools** and **AI-powered content**, the site offers an intuitive user experience, informative content, and an integrated AI **chatbot** to assist users.
